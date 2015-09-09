@@ -1,7 +1,6 @@
 within ;
 package Tutorial2015 "Modelica modeling tutorial 2015"
-
-
+  extends Modelica.Icons.Package;
   annotation (uses(Modelica(version="3.2.1")),
       Documentation(revisions="<html>
 <p>Main author: Dr. Dirk Zimmer, Deutsches Zentrum f&uuml;r Luft- und Raumfahrt (DLR), Institute of System Dynamics and Control, 2015</p>
