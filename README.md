@@ -6,8 +6,7 @@ A Modelica Library offering a 10 steps tutorial for beginners focussing on graph
 
 The Tutorial consists of 10 steps. Starting from simple free bodies, continuing with chaotic systems like a double pendulum and then containing the model of an inverse pendulum with position control.
 
-In addition to models from the MSL, the library uses simple planaer mechanic components. These are directly contained in this tutorial. 
-
+In addition to models from the [Modelica Standard Library](https://github.com/modelica/Modelica), the library uses simple planar mechanical components. These are directly contained in this tutorial.
 
 ## License
 
