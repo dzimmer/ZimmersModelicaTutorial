@@ -14,7 +14,8 @@ In addition to models from the MSL, the library uses simple planaer mechanic com
 The usage of this libray is free for non-commercial, educational purposes.
 
 ## Development and contribution
-The library was initially developed by Dirk Zimmer, German Aerospace Center (DLR)
+The library was initially developed by Dirk Zimmer, German Aerospace Center (DLR).
+
 Tool compatibility and further improvements were added by Thomas Beutlich, ITI GmbH.
 
 You may report any issues with using the [Issues](../../issues) button.
