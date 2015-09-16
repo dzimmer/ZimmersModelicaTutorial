@@ -36,7 +36,7 @@ equation
           points={{88,0},{58,0},{58,40},{-42,40},{-42,12}},
           pattern=LinePattern.None),
         Text(
-          extent={{100,100},{-100,60}},
+          extent={{-150,100},{150,60}},
           textString="%name",
           lineColor={0,0,255})}), Documentation(revisions="<html>
 <p>Main author: Dr. Dirk Zimmer, Deutsches Zentrum f&uuml;r Luft- und Raumfahrt (DLR), Institute of System Dynamics and Control, 2015</p>
