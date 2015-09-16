@@ -11,11 +11,11 @@ equation
   f0_max = S;
 
   // velocity and acceleration of flanges
-  v_relfric = der(-s_rel);
+  v_relfric = der(s_rel);
   a_relfric = der(v_relfric);
 
   // Friction force
-  -f = if locked then sa*unitForce else (
+  f = if locked then sa*unitForce else (
      if startForward then R else if startBackward then -R else if pre(mode) == Forward then R else -R);
 
   annotation (                               Icon(graphics={
