@@ -1,10 +1,15 @@
 Step1_FreeBody
+Step1_FreeBody2
 Step2_FixedBody
+Step2_FixedBody2
 Step3_Pendulum
+Step3_Pendulum2
 Step4_DoublePendulum
 Step5_CraneCrab
 Step6_ActuatedCraneCrab
 Step7_InvertedCraneCrab
+Step7_InvertedCraneCrab2
+Step7_InvertedCraneCrab3
 Step8_ElectricCraneCrab
 Step9_AngleControl
 Step10_PositionControl

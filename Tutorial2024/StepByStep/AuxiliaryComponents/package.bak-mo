@@ -1,4 +1,0 @@
-within Tutorial2024.StepByStep;
-package AuxiliaryComponents "auxiliary components"
-  extends Modelica.Icons.UtilitiesPackage;
-end AuxiliaryComponents;
